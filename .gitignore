@@ -45,4 +45,4 @@ bun.lock
 .idea/
 
 # Firebase
-firebaseConfig.ts
+firebaseConfig
